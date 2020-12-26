@@ -1,4 +1,4 @@
-# Fake-Job-Prediction
+# Fraudulent-Job-Posting-Prediction
 A model to predict fraudulent job postings from the legitimate ones
 
 ## Dataset
